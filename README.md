@@ -4,11 +4,14 @@
 > This project is a build of a Restaurant showcase and order site.
 Try our specialty 😋
 
-The endgoal of the project is to build the application using ES6 modules.
 Click [here](https://i-max-xi.github.io/Restaurant-site/) 
 to get a live preview of the project.
 
-
+## Built With:
+ - HTML
+ - CSS
+ - JavaScript
+ - Bootstrap
 
 
 ## Cloning the project
